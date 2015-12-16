@@ -35,18 +35,25 @@ Write down a complete description and then build the software
 8. Work at a sustainable pace and **avoid overtime**
 9. Continuous attention to **technical excellence** and good design
 10. Keep solution **as simple as possible**
-11. **Self-organized team** is responsible for the project
+11. **Self-organized team** is responsible for the project, collective
+    commitment
 12. Continuous **retrospectives** for **continuous improvement**
 
 # Scrum
 
 Interative and timeboxed development with communication
 
-- **Backlog** (Product owner)
+- **Product backlog** (Product owner)
     - Prioritized list of features and tasks
+    - User stories with acceptance criteria
 - **Sprint backlog** (Team and Scrum master)
-    - Detailed list of timeboxed tasks
+    - Detailed list of timeboxed tasks (sprint planning)
 - **Daily standup** (Team and Scrum master)
+    - Task board
     - What you have done
     - What you will do
     - Problems
+- **Sprint review** (All)
+    - Deomnstrate working software with added value
+- **Retrospective** (Team and Scrum master)
+    - Improve from learned lessons
