@@ -45,7 +45,7 @@ Interative and timeboxed development with communication
 
 - **Product backlog** (Product owner)
     - Prioritized list of features and tasks
-    - User stories with acceptance criteria
+    - User stories with acceptance criteria (release planning)
 - **Sprint backlog** (Team and Scrum master)
     - Detailed list of timeboxed tasks (sprint planning)
 - **Daily standup** (Team and Scrum master)
