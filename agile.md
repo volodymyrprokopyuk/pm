@@ -41,7 +41,8 @@ Write down a complete description and then build the software
 
 # Scrum
 
-Interative and timeboxed development with communication
+Incremental, iterative and timeboxed development with communication. Fail fast,
+release often
 
 - **Product backlog** (Product owner)
     - Prioritized list of features and tasks
